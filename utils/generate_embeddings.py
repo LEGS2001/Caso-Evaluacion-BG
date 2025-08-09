@@ -4,8 +4,8 @@ import chromadb
 import ollama
 
 def generate_embeddings():
-    client = chromadb.PersistentClient(path="./data")
-    collection = client.create_collection(name="docs")
+    client = chromadb.PersistentClient(path="./embeddings_data")
+    collection = client.get_or_create_collection(name="docs")
 
     records = load_clean_chunks("questions", 700, 120)
 

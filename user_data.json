@@ -1,0 +1,24 @@
+[{
+    "user_id": "legomez",
+    "password": "clave1",
+    "cuentas": {
+        "cuenta1": {
+            "tipo": "corriente", 
+            "numero": "013241029"},
+        "cuenta2": {
+            "tipo": "ahorro",   
+            "numero": "013244121"}
+    },
+    "tarjetas": ["tarjeta1", "tarjeta2"],
+    "polizas":  ["poliza1", "poliza2"]
+},
+{
+    "user_id": "maria",
+    "password": "clave2",
+    "cuentas": {
+        "cuenta1": {"tipo": "ahorro",    "numero": "020020020"},
+        "cuenta2": {"tipo": "corriente", "numero": "020020021"}
+    },
+    "tarjetas": ["tarjeta3"],
+    "polizas":  []
+}]

@@ -1,4 +1,4 @@
-from .retrieve_embedding import retrieve_embedding
+from utils.retrieve_embedding import retrieve_embedding
 import ollama
 
 def generate_response(query):
@@ -16,7 +16,7 @@ def generate_response(query):
     """
 
     output = ollama.generate(
-    model="llama3",
+    model="llama3.1",
     prompt=prompt,
     stream=False
     )
