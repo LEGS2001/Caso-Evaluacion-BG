@@ -21,12 +21,12 @@ def detect_voice():
             r = sr.Recognizer()
             continue
         
-def generate_audio(texto):
+def generate_audio(texto, rate):
     engine = pyttsx3.init()
     voices = engine.getProperty('voices')
     engine.setProperty('voice', voices[2].id)  
     
-    engine.setProperty('rate', 300)
+    engine.setProperty('rate', rate)
 
     engine.say(texto)
     engine.runAndWait()

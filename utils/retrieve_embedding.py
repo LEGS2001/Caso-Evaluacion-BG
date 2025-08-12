@@ -10,17 +10,13 @@ def retrieve_embedding(query):
 
     count = collection.count()
     if count == 0:
-        print('Generando embeddings.')
         generate_embeddings()
-    
-    else:
-        print('Generando embeddings.')
 
     qvec = ollama.embed(model="nomic-embed-text", input=[query])["embeddings"][0]
 
     results = collection.query(
     query_embeddings=[qvec],
-    n_results=5
+    n_results=1
     )
     data = results['documents'][0][0]
     return data
