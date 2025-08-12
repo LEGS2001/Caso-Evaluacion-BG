@@ -1,0 +1,37 @@
+¿Cómo pago mis servicios básicos desde App y Banca Virtual?
+
+Puedes pagar tus servicios básicos como CNEL, EMAPA, Interagua, entre otros, desde tu App y Banca Virtual.
+
+App
+
+Antes de pagar el servicio, asegúrate de tener registrada la empresa.
+
+Desde el resumen, selecciona Pagos o ve al menú y elige Pagar servicios.
+
+Usa la barra de búsqueda para encontrar la empresa.
+
+En el campo Código, ingresa el número de suministro (aparece en el comprobante).
+
+Revisa los datos del servicio.
+
+Si el servicio permite pagos parciales, ingresa el monto y selecciona la forma de pago.
+
+Si solo permite pagos totales, elige la forma de pago y confirma.
+
+Verás tu comprobante, podrás compartirlo o hacer un nuevo pago.
+
+Si no has usado nuestra App Banco Guayaquil revisa cómo registrarte aquí.
+
+Banca Virtual
+
+Antes de pagar el servicio, asegúrate de tener registrada la empresa.
+
+Ingresa a Banca Virtual y selecciona Pago de Servicios en el menú.
+
+Elige el servicio que deseas pagar.
+
+Completa la información solicitada.
+
+Ingresa las coordenadas de tu tarjeta Bancontrol para confirmar el pago.
+
+Si no has usado nuestra Banca Virtual revisa cómo registrarte desde tu computadora.

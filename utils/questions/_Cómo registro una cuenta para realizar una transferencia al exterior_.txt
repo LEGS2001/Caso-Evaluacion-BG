@@ -1,0 +1,64 @@
+¿Cómo registro una cuenta para realizar una transferencia al exterior?
+
+Antes de realizar una transferencia internacional desde la Banca Virtual, debes registrar la cuenta del beneficiario.
+Ten a la mano el código SWIFT o BIC y/o ABA del banco de destino.
+
+Pasos para registrar la cuenta:
+
+Ingresa a la Banca Virtual.
+
+En el menú, selecciona Transferencias > A cuentas en el exterior.
+
+En la sección Cuenta de destino, haz clic en Agregar nuevo.
+
+Ingresa el código SWIFT o BIC y/o ABA del banco de destino.
+
+Verifica que la información desplegada sea correcta.
+
+Completa los siguientes campos:
+
+Datos de la transacción:
+
+Tipo de cuenta
+
+Tipo de moneda
+
+Código del banco intermediario (si aplica)
+
+Número de cuenta o código según el país:
+
+Unión Europea: IBAN
+
+México: CLABE Interbancaria
+
+Perú: CCI
+
+Argentina: CBU
+
+Datos generales del beneficiario:
+
+Tipo de persona
+
+Tipo y número de identificación
+
+Nombre completo
+
+Alias (opcional)
+
+Datos de contacto del beneficiario:
+
+Dirección
+
+Teléfono
+
+Correo electrónico
+
+Solicita el código de seguridad, que enviaremos a tu correo electrónico registrado.
+
+Ingresa el código para confirmar el registro.
+
+La cuenta se activará una hora después del registro, y podrás realizar la transferencia al exterior desde la Banca Virtual.
+
+Importante
+Asegúrate de ingresar todos los datos de forma correcta y completa.
+Si las instrucciones son erróneas, incompletas o imprecisas, podrían generar demoras o rechazos en la transferencia. En estos casos, el banco no se responsabiliza por los costos de gestión, corrección o devolución de fondos.

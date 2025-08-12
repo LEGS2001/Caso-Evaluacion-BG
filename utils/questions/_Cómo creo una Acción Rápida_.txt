@@ -1,0 +1,51 @@
+¿Cómo creo una Acción Rápida?
+
+Las Acciones Rápidas son atajos que puedes configurar en la App para hacer de forma más ágil transferencias, envíos por Efectivo Móvil o pagos de tarjeta que realizas con frecuencia.
+
+Pasos generales:
+
+Ingresa a tu App Banco Guayaquil.
+
+Al final del resumen, accede al módulo "Acciones Rápidas".
+
+Presiona el ícono “+” para crear una nueva acción.
+
+Selecciona el tipo de acción: Transferencia, Efectivo Móvil o Pago de Tarjeta.
+
+Si eliges una Transferencia:
+
+Define un nombre e ícono para identificar la acción.
+
+Ingresa el monto que transferirás cada vez que la uses.
+
+Elige la cuenta de débito.
+
+Selecciona el destinatario.
+
+Guarda la acción rápida.
+
+Siempre deberás confirmar los datos antes de ejecutar la acción.
+
+Si eliges un Efectivo Móvil:
+
+Define el monto y la cuenta de débito.
+
+Selecciona el contacto que recibirá el envío.
+
+Asigna un nombre e ícono.
+
+Guarda la acción rápida.
+
+La confirmación de datos será requerida antes de realizar el envío.
+
+Si eliges un Pago de Tarjeta:
+
+Selecciona la cuenta de débito.
+
+Elige la tarjeta que deseas pagar.
+
+Indica el tipo de pago: mínimo, contado o total utilizado.
+
+Guarda la acción rápida.
+
+También puedes agregar un recordatorio para cada acción rápida creada.

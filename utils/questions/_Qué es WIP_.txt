@@ -1,0 +1,9 @@
+¿Qué es WIP?
+
+WIP es una funcionalidad dentro de la App Banco Guayaquil que te permite enviar y recibir dinero de forma inmediata usando solo el número de celular del destinatario.
+
+Realiza transferencias interbancarias desde $1 hasta $50.
+
+No necesitas número de cuenta, solo el número celular del receptor.
+
+El dinero llega al instante si el otro banco también forma parte de BANRED.

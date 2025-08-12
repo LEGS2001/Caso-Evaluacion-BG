@@ -1,0 +1,19 @@
+¿Cómo me registro en WIP?
+
+Para hacer transferencias inmediatas a otros bancos usando solo un número celular, primero debes registrarte en WIP desde tu App Banco Guayaquil.
+
+Paso a paso para registrarte: 
+
+     1. Ingresa a la App Banco Guayaquil y selecciona tu Perfil.
+
+     2. En el menú, elige la opción "WIP".
+
+     3. Toca el botón "Registrar" para iniciar la vinculación.
+
+     4. Selecciona la cuenta que quieres vincular a tu número celular.
+
+     5. Desliza para confirmar.
+
+     6. Ingresa el código de seguridad (OTP) que recibirás por SMS y correo electrónico.
+
+Una vez registrado, ya puedes enviar y recibir transferencias inmediatas interbancarias con WIP. Solo necesitas el número de celular del destinatario.

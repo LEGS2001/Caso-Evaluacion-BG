@@ -1,0 +1,21 @@
+¿Cómo creo un recordatorio para mis pagos?
+
+Puedes activar recordatorios al momento de agregar un nuevo servicio o configurarlos para un servicio ya guardado en la App Banco Guayaquil.
+
+Si estás agregando un nuevo servicio:
+
+Durante el registro, podrás elegir la fecha en la que deseas recibir el recordatorio para realizar el pago.
+
+Si el servicio ya está guardado:
+
+Ingresa al menú inferior de la App.
+
+Selecciona Pagos de servicios y elige la categoría o servicio al que deseas agregar un recordatorio.
+
+En la opción de (...) elige alertas 🔔.
+
+Define el día y la hora en la que quieres recibir el recordatorio.
+
+Confirma los cambios. ¡Y listo!
+
+Mira el paso a paso en el siguiente video:

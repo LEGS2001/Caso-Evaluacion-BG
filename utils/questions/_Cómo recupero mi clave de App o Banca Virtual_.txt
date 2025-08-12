@@ -1,0 +1,22 @@
+¿Cómo recupero mi clave de App o Banca Virtual?
+
+Por seguridad, la recuperación de clave debe hacerse desde la App Banco Guayaquil.
+Si aún no la tienes, descárgala desde Play Store, App Store o AppGallery.
+
+Pasos para recuperar tu clave:
+
+Ingresa tu usuario y selecciona la opción "Olvidé mi contraseña".
+
+Realiza el registro biométrico.
+
+Debes permitir el acceso a tu cámara para continuar.
+
+Crea una nueva contraseña.
+
+Debe tener entre 8 y 14 caracteres, incluir al menos una mayúscula, una minúscula y un número.
+
+Recibirás un código de seguridad por SMS. Ingrésalo para confirmar el cambio.
+
+Una vez completado el proceso, podrás ingresar con tu nueva clave.
+
+Mira el paso a paso en el siguiente video:

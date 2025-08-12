@@ -1,0 +1,48 @@
+¿Cuáles son los datos para recibir una transferencia desde el exterior?
+
+Para recibir una transferencia internacional en tu cuenta de Banco Guayaquil, necesitas proporcionar los siguientes datos al ordenante.
+El campo de banco intermediario no es obligatorio, pero si la entidad lo solicita, te dejamos las opciones disponibles.
+
+Banco beneficiario para transferencias en todas las monedas:
+
+Banco Guayaquil S.A
+
+Dirección: Pichincha 105 y P. Icaza.
+Código Swift: GUAYECEGXXX.
+Ciudad: Guayaquil.
+País: Ecuador.
+Telefono: 59343730100.
+Código postal: 090306.
+Bancos intermediarios para transferencias en dólares americanos (USD):
+
+Wells Fargo Bank
+
+Dirección: New York, United States.
+Código Swift: PNBPUS3NNYC.
+Cuenta Banco Guayaquil: 2000192321514.
+Código ABA: 026005092.
+
+Citibank NA
+
+Dirección: New York, United States.
+Código Swift: CITIUS33.
+Cuenta Banco Guayaquil: 36140531.
+Código ABA: 021000089.
+
+Standard Chartered Bank
+
+Dirección: New York, United States.
+Código Swift: SCBLUS33.
+Cuenta Banco Guayaquil: 3544032063001.
+Código ABA: 026002561.
+Bancos intermediarios para transferencias en otras monedas:
+
+Commerzbank AG
+
+Moneda: EUR (euro), CHF (franco suizo), GBP (libra esterlina), JPY (yen japonés).
+Dirección: Frankfurt, Germany.
+Código Swift: COBADEFF.
+Cuenta Banco Guayaquil: 400 8725111 00 (EUR, CHF, GBP, JPY).
+Importante
+Asegúrate de que los datos ingresados estén completos y correctos.
+Banco Guayaquil no se responsabiliza por demoras, rechazos o costos adicionales ocasionados por errores en las instrucciones ingresadas.

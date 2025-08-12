@@ -1,0 +1,54 @@
+¿Cómo pago mi impuesto predial?
+
+Puedes pagar tus impuestos prediales desde la App, Banca Virtual o en ventanillas. Antes de iniciar, ten a la mano tu número de predio o código catastral, el cual puedes encontrar en tu comprobante.
+Este código es definido por el municipio.
+
+Desde la App
+Impuesto predial guardado:
+
+Ingresa a la App y selecciona "Pagar servicios" desde el menú o desde la cuenta que vas a usar.
+
+Selecciona el impuesto guardado desde la lista.
+
+Revisa los datos, elige el monto y la cuenta de débito.
+
+Confirma el pago.
+
+Podrás ver, compartir o guardar tu comprobante.
+
+Nuevo Impuesto predial:
+
+En Pagar servicios, presiona el ícono “+”.
+
+Busca la categoría "Municipales" y presiona "Continuar".
+
+Selecciona el municipio correspondiente.
+
+Ingresa el tipo de pago e introduce el código del predio.
+
+Presiona "Consultar" y confirma los datos.
+
+Recibirás un código de seguridad por SMS. Ingrésalo para guardar y confirmar el pago.
+
+El impuesto quedará guardado para pagos futuros.
+
+Desde la Banca Virtual
+
+Ingresa a la Banca Virtual y selecciona el menú:
+Pagos de Servicios > Impuestos y tasas > Municipales.
+
+Escoge el municipio al que deseas pagar.
+
+Si deseas pagar sin registrar el servicio, ingresa directamente el código del predio.
+
+Si deseas registrarlo para pagos futuros:
+
+Ve a Mi Perfil > Matriculación de tarjetas, cuentas y servicios.
+
+En categoría, selecciona Impuestos y tasas Municipales.
+
+En empresa, elige el municipio correspondiente.
+
+Ingresa el código del predio y guarda el servicio.
+
+Luego, selecciona el servicio desde los registrados, revisa los datos y realiza el pago.

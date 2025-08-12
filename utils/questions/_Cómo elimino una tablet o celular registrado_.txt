@@ -1,0 +1,15 @@
+¿Cómo elimino una tablet o celular registrado?
+
+Puedes tener hasta dos dispositivos registrados en Banca Virtual. Si necesitas eliminar uno, sigue estos pasos desde un navegador:
+
+Pasos para eliminar un dispositivo:
+
+Ingresa a Banca Virtual con tu usuario y contraseña.
+
+En el menú, selecciona App Banco Guayaquil y luego Mis dispositivos registrados.
+
+Si no ves el botón para eliminar, mueve la barra de desplazamiento hacia la derecha.
+
+Presiona el ícono de eliminar junto al dispositivo que ya no usas.
+
+Una vez completado el proceso, podrás ingresar desde un nuevo dispositivo sin inconvenientes.

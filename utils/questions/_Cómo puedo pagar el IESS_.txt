@@ -1,0 +1,61 @@
+¿Cómo puedo pagar el IESS?
+
+Puedes realizar el pago de tus obligaciones con el IESS desde la App Banco Guayaquil o desde la Banca Virtual.
+Antes de iniciar, asegúrate de generar el comprobante o plantilla de pago en el sitio oficial del IEES.
+
+Desde la App
+Si ya tienes la cédula o RUC guardado:
+
+Ingresa a la App y selecciona Pagar servicios desde el menú o la cuenta que usarás para pagar.
+
+Busca y selecciona el servicio desde tu lista de guardados.
+
+Revisa los datos, elige la forma de pago y confirma.
+
+Puedes ver tu comprobante, compartirlo o realizar un nuevo pago.
+
+Si vas a registrar un nuevo comprobante:
+
+Ingresa a Pagar servicios y presiona el ícono “+”.
+
+Busca la categoría "Seguros" y selecciona IESS.
+
+Elige el tipo de consulta (por cédula, RUC o número de comprobante).
+
+Presiona "Consultar" y confirma los datos.
+
+Ingresa el código de seguridad SMS que recibirás.
+
+El servicio se guardará automáticamente y se realizará el pago.
+
+Desde la Banca Virtual
+
+Ingresa a Banca Virtual y ve al menú Mi Perfil > Matriculación de tarjetas, cuentas y servicios.
+
+Selecciona Pago servicio y presiona Agregar nuevo beneficiario.
+
+En categoría, elige IESS y Cías. de Seguros.
+
+Como empresa, selecciona IESS.
+
+Ingresa la contrapartida: número de cédula, RUC o número de comprobante de pago.
+
+En Referencia, escribe el nombre del beneficiario de la plantilla.
+
+Recibirás un código de seguridad al correo. Ingrésalo para finalizar el registro.
+
+Si no recibes código a tu medio de contacto debes actualizar tus datos.
+
+Para realizar el pago:
+
+Desde el menú, selecciona Pagos > IESS y Cías. de Seguros.
+
+Elige la empresa IESS y el tipo de consulta.
+
+Ingresa la contrapartida (cédula, RUC o comprobante).
+
+Revisa el valor a pagar, selecciona la forma de pago.
+
+Ingresa las coordenadas de tu Bancontrol para confirmar.
+
+Se mostrará tu comprobante de transacción, que puedes imprimir como respaldo.

@@ -1,0 +1,41 @@
+¿Qué datos necesito para hacer una transferencia internacional?
+
+Para realizar una transferencia al exterior, debes contar con los siguientes datos. Asegúrate de ingresarlos completos y correctamente para evitar rechazos o demoras.
+
+Datos del ordenante (quien envía el dinero):
+
+Nombre completo e identificación
+
+Cuenta de débito desde donde se enviará el dinero
+
+Dirección, teléfono y correo electrónico
+
+Motivo económico de la transferencia
+
+Datos del beneficiario (quien recibe el dinero):
+
+Nombre completo
+
+País, ciudad, dirección y correo electrónico
+
+Datos del banco de destino:
+
+Nombre del banco
+
+Dirección del banco (ciudad, país)
+
+Código SWIFT o BIC
+
+Si corresponde, código ABA (para bancos en EE. UU.)
+
+Identificador de cuenta según el país:
+
+Unión Europea: IBAN
+
+México: CLABE Interbancaria
+
+Perú: CCI (Código de Cuenta Interbancario)
+
+Argentina: CBU (Clave Bancaria Uniforme)
+
+Asegúrate de tener e ingresar los datos correctos y completos. En el caso que las instrucciones que ingreses sean erradas, imprecisas o incorrectas, no nos responsabilizamos por la demora en la recepción o devolución de la(s) transferencia(s) enviada(s), ni tampoco por el reembolso de los gastos ocasionados por la gestión de corrección o recuperación y devolución de los fondos.

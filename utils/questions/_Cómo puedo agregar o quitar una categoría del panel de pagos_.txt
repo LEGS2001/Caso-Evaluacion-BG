@@ -1,0 +1,19 @@
+¿Cómo puedo agregar o quitar una categoría del panel de pagos?
+
+Desde la App Banco Guayaquil puedes personalizar tu panel de pagos para que muestre solo las categorías que más usas.
+
+Pasos para editar tu panel de pagos:
+
+Ingresa a la opción Pagar servicios.
+
+Presiona "Agregar Categoría" para abrir la lista completa de categorías disponibles.
+
+Para quitar una categoría, toca su nombre para desmarcarla.
+
+Esto no eliminará la categoría, solo la ocultará del panel.
+
+Para agregar una categoría nueva, toca su nombre para marcarla.
+
+Se agregará automáticamente a tu panel de pagos.
+
+Puedes hacer estos cambios cuantas veces necesites, y tu panel se actualizará al instante.

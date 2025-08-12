@@ -1,0 +1,33 @@
+¿Cómo realizo un pago programado?
+
+Puedes programar un pago desde la Banca Virtual o agendar un recordatorio desde tu App Banco Guayaquil, según lo que prefieras.
+
+Desde la App
+
+Si ya tienes guardado el servicio, puedes agregarle un recordatorio así:
+
+En el panel de pagos, selecciona la categoría o servicio.
+
+Presiona el ícono de (…) y elige la opción "Recordar 🔔".
+
+Define el día y la hora en que deseas recibir el aviso.
+
+¡Listo! Te enviaremos una notificación para que no se te pase el pago.
+
+Desde la Banca Virtual
+
+Sigue estos pasos para programar el pago desde Banca Virtual.
+
+1. Ingresa con tu usuario y clave a la Banca Virtual.
+
+2. En el menú, selecciona Pago de Servicios > Pagos programados > Programar pago.
+
+3. Coloca la categoría, escribe el nombre de la empresa, selecciónala y completa los datos solicitados.
+
+5. Elige la forma de pago y define la fecha en la que deseas programarlo.
+
+6. Configura las notificaciones que quieres recibir.
+
+7. Ingresa las coordenadas de tu Bancontrol para confirmar.
+
+¡Y listo, tu pago ha sido programado!

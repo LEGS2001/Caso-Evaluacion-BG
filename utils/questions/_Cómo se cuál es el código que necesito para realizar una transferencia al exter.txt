@@ -1,0 +1,79 @@
+¿Cómo se cuál es el código que necesito para realizar una transferencia al exterior?
+
+Dependiendo del país al que deseas enviar el dinero, debes usar uno de los siguientes códigos bancarios internacionales. A continuación, te explicamos qué significa cada uno y cómo puedes encontrarlo:
+
+SWIFT o BIC
+
+Identifica a las instituciones financieras a nivel mundial.
+
+Se usa para hacer transferencias más seguras y eficientes.
+
+Código SWIFT/BIC de Banco Guayaquil: GUAYECEGXXX (aplica para todas las ciudades y agencias).
+
+ABA (solo para EE.UU.)
+
+Es el número de ruta bancaria para identificar a los bancos en Estados Unidos.
+
+Se utiliza exclusivamente en transferencias hacia o desde bancos estadounidenses.
+
+Puedes buscar el código ABA de un banco en EE. UU. aquí.
+
+IBAN (para países de la Unión Europea)
+
+Es el número de cuenta internacional usado en países de la Unión Europea y el Espacio Económico Europeo.
+
+Permite identificar cuentas bancarias dentro del sistema europeo.
+
+Puedes validar códigos IBAN desde aquí.
+
+CCI o Código de cuenta interbancario (Perú)
+
+El Código de Cuenta Interbancario es obligatorio para transferencias a cuentas en Perú.
+
+Tiene 20 dígitos y es generado por el banco receptor.
+
+Estructura:
+
+3 dígitos: código del banco.
+
+3 dígitos: oficina.
+
+12 dígitos: número de cuenta.
+
+2 dígitos: verificación.
+
+CLABE Interbancaria (México)
+
+Código de 18 dígitos para identificar una cuenta dentro del sistema bancario mexicano.
+
+No es una contraseña, solo un identificador único.
+
+Estructura:
+
+3 dígitos: banco
+
+3 dígitos: plaza (ciudad o región)
+
+11 dígitos: número de cuenta
+
+1 dígito: verificador
+
+CBU o Clave bancaria uniforme (Argentina)
+
+La Clave Bancaria Uniforme es informada por los bancos de Argentina a sus clientes y no puede ser modificada. La CBU de cada banco es única en todo el sistema financiero argentino.
+
+ La Clave Bancaria Uniforme está compuesta por 22 dígitos separados en dos bloques, según el siguiente detalle:
+
+Bloque 1:
+
+3 dígitos: número de entidad.
+
+4 dígitos: número de sucursal.
+
+1 dígito: dígito verificador de los primeros 7 dígitos.
+
+Bloque 2:
+
+13 dígitos: número de cuenta (los primeros dos identifican según el criterio de la entidad, por ejemplo, tipo y moneda de la cuenta, y los restantes 11 son para el número de cuenta).
+
+1 dígito: dígito verificador de las anteriores 13 posiciones.

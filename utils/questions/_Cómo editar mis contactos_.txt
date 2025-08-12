@@ -1,0 +1,19 @@
+¿Cómo editar mis contactos?
+
+Desde la App Banco Guayaquil, puedes editar el alias y correo electrónico de tus contactos o eliminar aquellos que ya no deseas tener en tu listado de beneficiarios.
+
+Pasos para editar o eliminar un contacto:
+
+Ingresa a la App y ve a la sección Perfil.
+
+Selecciona Contactos.
+
+Toca el contacto que deseas modificar o eliminar.
+
+Elige:
+
+Editar: para cambiar el alias o correo electrónico.
+
+Eliminar: para quitarlo del listado de beneficiarios.
+
+Confirma el cambio ingresando el código de seguridad que recibirás por SMS en tu celular.

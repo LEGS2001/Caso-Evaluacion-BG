@@ -1,0 +1,67 @@
+¿Cómo puedo hacer una transferencia internacional?
+
+Puedes realizar transferencias internacionales desde la Banca Virtual o en ventanilla. Para ambas opciones necesitas tener una cuenta activa en Banco Guayaquil, desde la cual se hará el débito.
+
+Desde Banca Virtual
+
+Antes de iniciar, asegúrate de tener registrada la cuenta de destino internacional.
+
+Ingresa a la Banca Virtual.
+
+En el menú, selecciona Transferencias > A cuentas en el exterior.
+
+Revisa la información y acepta para continuar.
+
+Completa los datos requeridos:
+
+Cuenta de débito (origen del dinero).
+
+Cuenta de destino (ya registrada).
+
+Concepto de la transferencia.
+
+Factura (opcional, como referencia).
+
+Moneda de la transferencia.
+
+Puedes cambiarla si es necesario y cotizar el tipo de cambio en el momento.
+
+Valor a enviar: ingresa el monto y haz clic en Calcular para conocer el valor total con ISD (impuesto a la salida de divisas) y tarifa.
+
+Motivo económico (selección obligatoria). Según tu elección, se mostrarán más campos a completar.
+
+Ingresa las coordenadas de tu Bancontrol para confirmar la transacción.
+
+Considera que las diferencias horarias pueden afectar el tiempo de acreditación en el país de destino.
+
+Desde Ventanilla
+
+Para hacer la transferencia, acércate a una agencia y solicita el formulario correspondiente. Debes completarlo con los siguientes datos:
+
+Datos del ordenante:
+
+Nombre completo e identificación
+
+Cuenta de débito
+
+Dirección, teléfono y correo electrónico
+
+Motivo económico de la transferencia
+
+Datos del beneficiario:
+
+Nombre completo
+
+País, ciudad, dirección y correo electrónico
+
+Número de cuenta o código correspondiente según el país:
+
+Unión Europea: IBAN
+
+México: CLABE Interbancaria
+
+Perú: CCI
+
+Argentina: CBU
+
+Asegúrate de ingresar todos los datos de forma correcta. Si los datos son erróneos o incompletos, podrías experimentar demoras, rechazos o cargos adicionales por gestión de corrección o devolución.

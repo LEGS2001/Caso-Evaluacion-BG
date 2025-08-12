@@ -1,0 +1,24 @@
+¿Qué debo hacer si me llegó un SMS o mail para confirmar una compra en línea?
+
+Cuando realizas una compra en línea, por seguridad te enviaremos un correo electrónico o un SMS para confirmar que fuiste tú quien la hizo y volver a realizar la compra. Para ello, sigue los siguientes pasos:
+
+Correo electrónico
+
+Recibirás un mensaje con el asunto:
+“Confirma que intentaste realizar un consumo en [nombre del local]”.
+
+Haz clic en "Confirmar compra".
+
+Luego, vuelve a realizar la compra en el sitio web.
+
+SMS
+
+Recibirás un mensaje del 8080 con un código de confirmación.
+
+Responde con:
+CONFIRMAR [tu código] (por ejemplo: CONFIRMAR 1234).
+
+Luego, intenta nuevamente la compra.
+
+Si no reconoces la compra:
+Contáctate desde nuestro WhatsApp al 0983730100 para ayudarte a bloquear la transacción y proteger tu tarjeta.

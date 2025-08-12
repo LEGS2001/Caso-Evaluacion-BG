@@ -1,0 +1,15 @@
+¿Qué debo hacer si olvidé mi usuario?
+
+Para recuperar tu usuario, debes hacerlo directamente desde la App Banco Guayaquil. Si aún no la tienes, descárgala desde Play Store, App Store o App Gallery.
+
+Pasos para recuperar tu usuario:
+
+Abre la App y selecciona la opción "Recuperar mi usuario".
+
+Ingresa tu número de cédula y realiza el registro biométrico. Asegúrate de permitir el acceso a tu cámara.
+
+Recibirás un código de seguridad por SMS. Ingrésalo cuando se te solicite.
+
+Tu usuario aparecerá automáticamente en pantalla.
+
+Puedes revisar el paso a paso en el siguiente video:

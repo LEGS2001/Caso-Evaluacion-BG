@@ -1,0 +1,27 @@
+¿Cómo simulo mi crédito vehicular?
+
+Puedes calcular tu cuota mensual estimada en segundos con nuestro simulador en línea. Solo necesitas seguir estos pasos:
+
+Ingresa al simulador de crédito vehicular.
+
+En Valor del vehículo, escribe el precio total del auto que deseas financiar.
+
+En Monto de entrada, indica cuánto deseas dar como entrada. Recuerda que debe ser al menos el 20% del valor total.
+
+En la sección ¿En cuánto tiempo quieres pagarlo?, elige el plazo de tu crédito deslizando la barra (desde 12 hasta 72 meses).
+
+Selecciona el tipo de tabla de amortización:
+
+Alemán: Tu cuota será mayor al inicio e irá disminuyendo.
+
+Francés: Tus cuotas serán iguales todos los meses.
+
+Da clic en el botón Calcular.
+
+En el lado derecho verás:
+
+Una cuota mensual estimada.
+
+Un resumen del crédito: tiempo, tasa de interés, capital, intereses y total a pagar.
+
+Si estás listo para solicitar tu crédito, puedes continuar con el botón "Iniciar solicitud" que aparece debajo del simulador.

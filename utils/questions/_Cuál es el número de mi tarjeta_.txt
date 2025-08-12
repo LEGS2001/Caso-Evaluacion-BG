@@ -1,0 +1,11 @@
+¿Cuál es el número de mi tarjeta?
+
+¿Cuál es el número de mi tarjeta?
+
+Por seguridad, el número completo de tu tarjeta solo está impreso en el plástico.
+
+El código de seguridad (CVV) también varía según el tipo de tarjeta:
+
+En American Express, lo encuentras en el frente, sobre el número de tarjeta.
+
+En Visa o Mastercard, está ubicado en la parte posterior.

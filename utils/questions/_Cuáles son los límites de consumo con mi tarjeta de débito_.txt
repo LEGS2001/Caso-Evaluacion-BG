@@ -1,0 +1,22 @@
+¿Cuáles son los límites de consumo con mi tarjeta de débito?
+
+Los límites de tu tarjeta de débito dependen del tipo que tengas: Mastercard Debit Clásica, Platinum o Black. A continuación, te mostramos los montos máximos por retiros y consumos, tanto locales como en el exterior:
+
+Mastercard Debit Clásica
+Tipo de Transacción	Diario	Mensual
+Retiros locales	$510	$10.000
+Compras locales	$5.000	$10.000
+Retiros en el exterior	$500	$5.000
+Compras en el exterior	$5.000	$10.000
+Mastercard Debit Platinum
+Tipo de Transacción	Diario	Mensual
+Retiros locales	$710	$10.000
+Compras locales	$5.000	$10.000
+Retiros en el exterior	$1.000	$7.000
+Compras en el exterior	$2.000	$10.000
+Mastercard Debit Black
+Tipo de Transacción	Diario	Mensual
+Retiros locales	$1.000	$10.000
+Compras locales	$5.000	$10.000
+Retiros en el exterior	$2.000	$10.000
+Compras en el exterior	$1.000	$10.000

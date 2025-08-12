@@ -20,7 +20,7 @@ def retrieve_embedding(query):
 
     results = collection.query(
     query_embeddings=[qvec],
-    n_results=3
+    n_results=5
     )
     data = results['documents'][0][0]
     return data

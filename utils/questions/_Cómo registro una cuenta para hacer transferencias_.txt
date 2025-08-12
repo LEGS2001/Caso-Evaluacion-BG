@@ -1,0 +1,58 @@
+¿Cómo registro una cuenta para hacer transferencias?
+
+Antes de realizar una transferencia, debes registrar la cuenta desde la App Banco Guayaquil o desde la Banca Virtual. A continuación, te detallamos cómo: 
+
+Desde la App
+
+Ingresa a la App y selecciona la opción Transferir desde la cuenta que vas a usar o desde el menú principal.
+
+Presiona Nuevo contacto.
+
+Elige el banco al que pertenece la cuenta.
+
+Si es una cuenta Banco Guayaquil:
+
+Ingresa el número de cuenta.
+
+Valida los datos del titular.
+
+Puedes agregar un alias y correo electrónico (opcional).
+
+Si es de otro banco:
+
+Selecciona el tipo de cuenta (ahorros o corriente).
+
+Ingresa el número de cuenta, nombre completo e identificación.
+
+El alias y correo son opcionales.
+
+Recibirás un código de seguridad por SMS y correo electrónico. Ingrésalo para completar el registro.
+
+Si deseas, puedes continuar con la transferencia ingresando el monto. El motivo es opcional.
+
+Desde la Banca Virtual
+
+Ingresa a Banca Virtual y ve a:
+Mi Perfil > Matriculación de tarjetas, cuentas y servicios.
+
+Elige si vas a registrar una cuenta de Banco Guayaquil u otra institución financiera.
+
+Presiona "Agregar nuevo beneficiario" e ingresa los datos solicitados:
+
+Número y tipo de cuenta.
+
+Banco.
+
+Número y tipo de identificación.
+
+Nombre del titular.
+
+Alias y correo electrónico (opcional).
+
+Solicita el código de seguridad, que enviaremos a tu correo registrado.
+
+Si no lo recibes, debes actualizar tus datos de contacto.
+
+Ingresa el código para finalizar el registro.
+
+ Luego de esto, podrás realizar transferencias a esa cuenta. Si no has usado nuestra Banca Virtual revisa cómo registrarte desde tu computadora.
